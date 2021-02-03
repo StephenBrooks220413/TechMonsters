@@ -14,7 +14,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-6">
-          <h1>Fluid Designs</h1>
+          <h1>Fluid- Designs</h1>
           <br />
           Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum
           quibusdam, obcaecati earum illo officiis porro tenetur tempora et
